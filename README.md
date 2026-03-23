@@ -54,7 +54,7 @@ Whether it's a web interface, an app prototype, or an automation script — I be
 
 ---
 
-## 🚀 Why I  
+## 🚀 Why I  code 
 Technology isn’t just about syntax or semicolons — it’s a **canvas for creativity**, a tool for **impact**, and a path to **innovation**.
 
 If you’re looking for someone who is:
