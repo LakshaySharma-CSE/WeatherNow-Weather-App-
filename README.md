@@ -19,7 +19,7 @@ It includes live weather search, city auto-suggestions using OpenWeather Geo API
 ## 📦 Installation
 1. Clone the project:
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/LakshaySharma-CSE/WeatherNow-Weather-App-.git
 ```
 
 2. Add your OpenWeather API key inside `script.js`:
